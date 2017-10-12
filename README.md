@@ -1,4 +1,6 @@
 ## Getting Started for .NET
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fgetting-started-dotnet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fgetting-started-dotnet?ref=badge_shield)
+
 
 This repo contains sample applications written in C# that run on Google Cloud Platform.
 
@@ -35,3 +37,6 @@ The sample bookshelf app provides examples of using the following Cloud APIs:
 [Cloud SQL API]: https://cloud.google.com/sql/docs/admin-api/
 [Cloud Storage API]: http://googlecloudplatform.github.io/gcloud-dotnet/index.html
 [Cloud Pub/Sub API]: https://developers.google.com/api-client-library/dotnet/apis/pubsub/v1
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsunit4155%2Fgetting-started-dotnet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsunit4155%2Fgetting-started-dotnet?ref=badge_large)
